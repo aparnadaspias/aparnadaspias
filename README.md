@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Pias
 #### Programmer
-![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am a programmer and currently working on unique ML/DL projects. I have a passion for learning and sharing my work with others. I love to solve real-world problems. I am an enthusiastic and goal-oriented individual. 
 
 Skills: Python/ C++ / JS / MATLAB 
